@@ -1,2 +1,2 @@
-# newrepo2
+# newrepo
 new repository
